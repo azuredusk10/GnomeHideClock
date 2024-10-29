@@ -3,6 +3,8 @@
   "description": "Simply hides the clock from the panel.",
   "uuid": "hideclock@kevinbburns.com",
   "shell-version": [
-    "46"
+    "45",
+    "46",
+    "47"
   ]
 }
